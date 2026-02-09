@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual env
+.venv/
+venv/
+
+# OS / IDE
+.vscode/
+.DS_Store
+
+# Database + cached models
+faces.sqlite
+*.sqlite
+*.db
+
+# InsightFace cache (optional)
+~/.insightface/
